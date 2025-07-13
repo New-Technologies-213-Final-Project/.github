@@ -6,7 +6,8 @@
 
 - This is the final project of the "Modern Software Development Technologies" course taught in **Ho Chi Minh University of Science**. For more details about the project, please take a look at the `project_description.pdf` file in the `.github` repository.
 - Learning period: 2nd semester of 2024 - 2025.
-- Lecturer: Mr. Tran Van Quy.
+- Theory lecturer: Mr. Tran Van Quy.
+- Practice instructor: Mr. Do Nguyen Kha.
 
 ### Team members
 
@@ -25,9 +26,9 @@ Due to its complexity, the project is divided into 5 layers. To avoid dependenci
 New Technologies 213 - Final Project/  # Github organization
 ├─ fe/                                 # Frontend layer - Github repository
 ├─ be/                                 # Backend layer - Github repository
-├─ local_llm/                          # Local LLM service layer - Github repository
-├─ mcp_client/                         # MCP Client layer - Github repository
-└─ mcp_server/                         # MCP Server layer - Github repository
+├─ data/                               # Data used in the project - Github repository
+├─ api_log/                            # Project log storage - Github repository
+├─ mcp_server/                         # MCP Server layer - Github repository
 └─ .github/                            # Project information - Github repository
 ```
 
