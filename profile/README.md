@@ -4,7 +4,7 @@
 
 ### About the project
 
-- This is the final project of the "Modern Software Development Technologies" course taught in **Ho Chi Minh University of Science**. For more details about the project, please take a look at the `project_description.pdf` file.
+- This is the final project of the "Modern Software Development Technologies" course taught in **Ho Chi Minh University of Science**. For more details about the project, please take a look at the `project_description.pdf` file in the `.github` repository.
 - Learning period: 2nd semester of 2024 - 2025.
 - Lecturer: Mr. Tran Van Quy.
 
