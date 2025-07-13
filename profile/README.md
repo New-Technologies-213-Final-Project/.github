@@ -34,6 +34,7 @@ New Technologies 213 - Final Project/  # Github organization
 
 ## Technical Stack
 
+- Frontend: React with Vite and Tailwind.
 - Update later...
 
 ## Implemented Features
