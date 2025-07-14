@@ -37,6 +37,7 @@ New Technologies 213 - Final Project/  # Github organization
 - Frontend: React with Vite and Tailwind.
 - Backend: Python with Uvicorn
 - MCP Server: Python MCP SDK
+- Database: MySQL & PostgreSQL
 
 ## Implemented Features
 
@@ -60,7 +61,8 @@ New Technologies 213 - Final Project/  # Github organization
 
 ## Demo
 
-- Link: https://youtu.be/rv3ETFVHgyk?si=5yqf4pqzW23ifVj_
+- Installation instructor: https://youtu.be/rv3ETFVHgyk?si=5yqf4pqzW23ifVj_
+- Features demo: https://youtu.be/xqA2vl4Krx0
 
 ## Usage
 
