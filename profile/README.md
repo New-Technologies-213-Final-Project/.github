@@ -40,23 +40,23 @@ New Technologies 213 - Final Project/  # Github organization
 
 ## Implemented Features
 
-- Chat Interface: Accepts natural language questions from users.
-- Local LLM Processing: Uses a local language model (e.g., llama.cpp, Ollama) running on a CPU (no GPU required).
-- File Content Search: Searches through folders containing documents (PDF, Word, PowerPoint, Excel, etc.).
-- File Classification: Automatically labels files based on content (e.g., Group A, B, Marketing, HR, etc.).
-- Metadata Upload: Sends file metadata (name, label, summary) to the MCP Cloud API.
-- Chat-based Results: Displays search results directly in the chat interface.
-- Offline Operation: Entirely offline system, runs on CPU with a minimum of 8GB RAM.
-- Vietnamese Language Support: Supports queries in Vietnamese through the chat interface.
-- Multi-format File Handling: Supports various file types (PDF, Word, Excel, etc.).
-- Agentic AI: The AI can plan and execute multi-step reasoning instead of only responding to one question at a time.
-- Chain of Thought: The AI explains its reasoning process to increase transparency and trust.
-- RLHF (Reinforcement Learning from Human Feedback): Captures user feedback to improve future results without retraining the model.
-- Cross-document Comparison: Able to compare content across multiple documents (e.g., comparing strategies between 2023 and 2024).
-- Role-based Access Control: Restricts access to sensitive data by role (e.g., HR, Accounting, Manager).
-- Editable Labels: Allows users to manually correct file labels if the AI misclassifies them.
-- Report Generation: Generates and exports reports (PDF, Excel) from extracted data.
-- Query & Metadata Logging: Logs user queries and file metadata for internal analytics or future reuse.
+- **Chat Interface:** Accepts natural language questions from users.
+- **Local LLM Processing:** Uses a local language model (e.g., **llama.cpp**, **Ollama**) running on a CPU (no GPU required).
+- **File Content Search:** Searches through folders containing documents (**PDF**, **Word**, **PowerPoint**, **Excel**, etc.).
+- **File Classification:** Automatically labels files based on content (e.g., **Group A**, **B**, **Marketing**, **HR**, etc.).
+- **Metadata Upload:** Sends file metadata (**name**, **label**, **summary**) to the **MCP Cloud API**.
+- **Chat-based Results:** Displays search results directly in the chat interface.
+- **Offline Operation:** Entirely offline system, runs on CPU with a minimum of **8GB RAM**.
+- **Vietnamese Language Support:** Supports queries in **Vietnamese** through the chat interface.
+- **Multi-format File Handling:** Supports various file types (**PDF**, **Word**, **Excel**, etc.).
+- **Agentic AI:** The AI can plan and execute multi-step reasoning instead of only responding to one question at a time.
+- **Chain of Thought:** The AI explains its reasoning process to increase transparency and trust.
+- **RLHF (Reinforcement Learning from Human Feedback):** Captures user feedback to improve future results without retraining the model.
+- **Cross-document Comparison:** Able to compare content across multiple documents (e.g., comparing strategies between **2023** and **2024**).
+- **Role-based Access Control:** Restricts access to sensitive data by role (e.g., **HR**, **Accounting**, **Manager**).
+- **Editable Labels:** Allows users to manually correct file labels if the AI misclassifies them.
+- **Report Generation:** Generates and exports reports (**PDF**, **Excel**) from extracted data.
+- **Query & Metadata Logging:** Logs user queries and file metadata for internal analytics or future reuse.
 
 ## Demo
 
